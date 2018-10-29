@@ -1,12 +1,14 @@
 {
   "pages":[
     "pages/index/index",
+    "pages/scroll/index",
+    "pages/canvas/index",
     "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "scroll-view实现字幕滚动",
+    "navigationBarTitleText": "字幕滚动",
     "navigationBarTextStyle":"black"
   }
 }
